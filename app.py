@@ -18,6 +18,22 @@ API_KEY = "AIzaSyAQx_XjqsrBQBpfWNExzj6uvmr4t2Uphks"
 channels = {
     "UC62pPLZqx8JIrtW1kT5NPWA": "Geo Entertainment",
     "UC_vt34wimdCzdkrzVejwX9g": "Geo News",
+    "UCjf9mzqsb9lH7yd5OcBqzsA": "Samma Entertainment",
+    "UCJekW1Vj5fCVEGdye_mBN6Q": "Samma News",
+    "UCaxR-D8FjZ-2otbU0_Y2grg": "Dawn news",
+    "UCTur7oM6mLL0rM2k0znuZpQ": "Express News",
+    "UCMmpLL2ucRHAXbNHiCPyIyg": "ARY News",
+    "UC4JCksJF76g_MdzPVBJoC3Q": "ARY Digital",
+    "UCnMBV5Iw4WqKILKue1nP6Hg": "Duniya News",
+    "UCgBAPAcLsh_MAPvJprIz89w": "Aaj News",
+    "UCsgC5cbz3DE2Shh34gNKiog": "92 News",
+    "UC35KuZBNIj4S5Ls0yjY-UHQ": "GNN News",
+    "UCElJZvY_RVra6qjD8WSQYog": "Public News",
+    "UCcmpeVbSSQlZRvHfdC-CRwg": "24 News hd",
+    "UCz2yxQJZgiB_5elTzqV7FiQ": "Bol News",
+    "UC0Um3pnZ2WGBEeoA3BX2sKw": "Hum News",
+    "UCAsvFcpUQegneSh0QAUd64A": "Neo news"
+    
 }
 
 # Authenticate with Google Sheets
